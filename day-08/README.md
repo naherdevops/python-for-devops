@@ -72,7 +72,7 @@ This is only to understand:
 - How Python runs in the cloud
 - What “serverless” means
 
-Note: This is **NOT mandatory** and can be skipped if you are new to AWS. This will be covered in-depth in [DevOps - Zero To Hero Josh Batch 10](https://bit.ly/devops-josh)
+Note: This is **NOT mandatory** and can be skipped if you are new to AWS. This will be covered in-depth in 
 
 
 ## Guidelines
@@ -140,10 +140,6 @@ Share your progress on LinkedIn:
 - Share terminal output or JSON output
 - Write 2–3 lines on what you learned about AWS + Python
 
-Optional:
-- Tag **TrainWithShubham** or **Shubham Londhe**
-- Use hashtags: `#PythonForDevOps #TrainWithShubham #DevOpsKaJosh`  (Helps me to filter post and Like/ Comment / Repost / engage)
-
 
 Happy Learning  
-[TrainWithShubham](https://www.trainwithshubham.com/)
+
