@@ -127,9 +127,6 @@ The next step is:
 - Cloud architecture
 - Interview preparation
 
-Check out: [DevOps – Zero To Hero (Josh Batch 10)](https://bit.ly/devops-josh)
-
-
 
 ## Expected Output
 
